@@ -1,0 +1,63 @@
+.head{
+   color: palegreen;
+
+}
+
+.left{
+    width:300px;
+    height:672px;
+    border:1px solid black;
+    margin-left:30px;
+    margin-top:10px;
+}
+
+
+
+
+.price{
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
+.text{
+    text-align:center;
+
+}
+
+.body{
+    background-color:darkcyan;
+}
+
+.card{
+    width:300px;
+   margin-top:10px;
+}
+
+
+
+.back-img{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    max-width:100%;
+}
+
+
+.logo{
+    
+    color:grey solid;
+font-family:Georgia, 'Times New Roman', Times, serif;
+    height:200px;
+    width:200px;
+   border-radius:50%;
+font-size:60px;
+font-weight: 800;
+
+display:inline-block;
+
+}
+
+.dslr{
+    font-family:sans-serif;
+}
